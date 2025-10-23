@@ -738,4 +738,5 @@ class IconLayer {
         this.color = validNum(color, WHITE)
         this.sprite.tint = this.color
     }
+
 }
